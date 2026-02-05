@@ -27,8 +27,9 @@ We develop and validate our systems in real-world environments (Home Lab Researc
 * **[dynamicdev_agent](https://github.com/dynamicdev-official/dynamicdev_agent):** Intelligent AI Agent for autonomous backend management and workflow automation.
 * **Network Research:** Engineering tools designed to simplify complex networking device management.
 
-### 💻 Ecosystem Tech Stack
-<p align="left">
+### 
+<p align="center">
+  💻 Ecosystem Tech Stack
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -36,13 +37,13 @@ We develop and validate our systems in real-world environments (Home Lab Researc
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
-### 📊 Organization Insights (Alternative)
-<p align="left">
+
+### 
+<p align="center">
+📊 Organization Stats 
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dynamicdev-official&theme=tokyonight&hide_border=true" height="170" />
   
-  <img src="https://github-profile-trophy.vercel.app/?username=dynamicdev-official&theme=tokyonight&column=3&margin-w=15" height="170" />
-</p>
-
 ---
 
 
