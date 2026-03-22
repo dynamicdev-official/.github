@@ -341,9 +341,9 @@ Stay updated with our latest projects
 ```ascii
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║        🎯 Innovation-Driven  |  🔒 Security-First  |  ⚡ Performance          ║
+║        🎯-Innovation-Driven  |  🤖 -Security-First  |   🦞-Performance      ║
 ║                                                                              ║
-║              We build systems that don't just work – they excel.            ║
+║               We build systems that don't just work – they excel.            ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
